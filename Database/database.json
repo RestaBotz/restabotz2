@@ -1,0 +1,94 @@
+{
+  "data": {
+    "users": {
+      "6285725060455@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": "Infinity"
+      },
+      "6281328608503@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "628999345541@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6288744900254@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6285752932509@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6283862284738@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6283850778058@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "62882006916744@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6285849960683@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6285762741153@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6288806264902@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      },
+      "6282379569291@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 5
+      }
+    },
+    "chats": {
+      "6285725060455@s.whatsapp.net": {},
+      "6281328608503@s.whatsapp.net": {},
+      "120363041441515430@g.us": {
+        "antilink": true
+      },
+      "16475002992-1488309485@g.us": {},
+      "120363041377229999@g.us": {}
+    },
+    "sticker": {},
+    "database": {},
+    "game": {},
+    "settings": {},
+    "others": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "Database/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "Database/database.json",
+        "tempFilename": "Database/.database.json.tmp"
+      }
+    }
+  }
+}
